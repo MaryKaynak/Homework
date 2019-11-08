@@ -1,4 +1,4 @@
-public class HomeworkDos {
+public class homeWork {
     public static void main(String[] args) {
 
                 int[] a1 = {5,8,7};

@@ -1,4 +1,4 @@
-package HomeworkDos;
+package Homework;
 
 import java.util.HashSet;
 

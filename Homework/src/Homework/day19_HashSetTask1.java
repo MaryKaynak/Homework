@@ -1,9 +1,9 @@
-package HomeworkDos;
+package Homework;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class day19_HashSetTask2 {
+class day19_HashSetTask1 {
     public static void main(String[] args) {
         Set<String> color = new HashSet<>();
         color.add("Red");
@@ -11,9 +11,6 @@ public class day19_HashSetTask2 {
         color.add("Black");
         color.add("Pink");
         color.add("Yellow");
-        for (String a : color) {
-            System.out.println(a);
-        }
-        }
-        }
-
+        System.out.println(color);
+    }
+}
