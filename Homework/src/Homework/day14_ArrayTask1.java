@@ -10,7 +10,7 @@ public class day14_ArrayTask1 {
                 maxnumber = mynumber;
             }
         }
-        System.out.println(maxnumber);
+        System.out.println("Max number is: " + maxnumber);
     }
 }
 
