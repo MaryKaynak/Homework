@@ -5,6 +5,7 @@ import java.util.Set;
 
 public class day19_HashSetTask5 {
     public static void main(String[] args) {
+        //5. Write a Java program to test a hash set is empty or not.
         Set<Integer> number = new HashSet<>();
         number.add(10);
         number.add(20);

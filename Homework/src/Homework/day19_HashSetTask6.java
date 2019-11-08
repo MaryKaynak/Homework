@@ -4,6 +4,7 @@ import java.util.HashSet;
 
 public class day19_HashSetTask6 {
     public static <HasSet> void main(String[] args) {
+      //  Write a Java program to clone a hash set to another hash set.
         HashSet<String> fruit = new HashSet<>();
         fruit.add("Apple");
         fruit.add("Orange");

@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class day19_HashSetTask4 {
     public static void main(String[] args) {
-
+        //4. Write a Java program to empty an hash set.
         Set<Integer> numbers = new HashSet<>();
         numbers.add(1);
         numbers.add(2);
