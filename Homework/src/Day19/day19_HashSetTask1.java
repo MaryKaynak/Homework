@@ -1,20 +1,17 @@
-package Homework;
+package Day19;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class day19_HashSetTask2 {
+class day19_HashSetTask1 {
     public static void main(String[] args) {
-        //2. Write a Java program to iterate through all elements in a hash list.
+        //1. Write a Java program to append the specified element to the end of a hash set.
         Set<String> color = new HashSet<>();
         color.add("Red");
         color.add("Blue");
         color.add("Black");
         color.add("Pink");
         color.add("Yellow");
-        for (String a : color) {
-            System.out.println(a);
-        }
-        }
-        }
-
+        System.out.println(color);
+    }
+}

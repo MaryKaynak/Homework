@@ -1,4 +1,4 @@
-package Homework;
+package Day18;
 
 import javax.print.DocFlavor;
 import java.util.ArrayList;

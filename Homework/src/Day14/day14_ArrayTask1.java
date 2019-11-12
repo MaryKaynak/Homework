@@ -1,4 +1,4 @@
-package Homework;
+package Day14;
 
 public class day14_ArrayTask1 {
     public static void main(String[] args) {

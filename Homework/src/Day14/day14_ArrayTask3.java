@@ -1,4 +1,4 @@
-package Homework;
+package Day14;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

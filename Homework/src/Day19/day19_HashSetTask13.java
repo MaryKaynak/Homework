@@ -1,4 +1,4 @@
-package Homework;
+package Day19;
 
 public class day19_HashSetTask13 {
     public static void main(String[] args) {
