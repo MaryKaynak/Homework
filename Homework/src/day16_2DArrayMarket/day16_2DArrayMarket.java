@@ -1,4 +1,4 @@
-package Homework;
+package day16_2DArrayMarket;
 
 import java.util.Arrays;
 
