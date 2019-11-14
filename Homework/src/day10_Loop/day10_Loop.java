@@ -1,4 +1,4 @@
-package Homework;
+package day10_Loop;
 
 import java.util.Scanner;
 
