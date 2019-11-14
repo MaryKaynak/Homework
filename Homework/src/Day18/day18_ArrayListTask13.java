@@ -1,7 +1,5 @@
 package Day18;
 
-import javax.swing.*;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class day18_ArrayListTask13 {
