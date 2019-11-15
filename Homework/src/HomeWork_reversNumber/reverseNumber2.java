@@ -10,3 +10,5 @@ public class reverseNumber2 {
         System.out.println(reversenum);
     }
 }
+
+
