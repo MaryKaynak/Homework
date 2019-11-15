@@ -6,7 +6,7 @@ public class StringMethod {
 //    b) -32768 to 32767
 //    c) -2147483648 to 2147483647
 //    d) None of the mentioned
-//
+//     Answer:b) -32768 to 32767
 //
 //
 //    2. What is the range of byte data type in Java?
@@ -16,20 +16,20 @@ public class StringMethod {
 //    d) None of the mentioned
 //    View Answer   d) None of the mentioned
 //
-//
+//     Answer: a) -128 to 127
 //
 //    3. Which of the following are legal lines of Java code?
 //    1. int w = (int)888.8;
 //    2. byte x = (byte)100L;
 //    3. long y = (byte)100;
 //    4. byte z = (byte)100L;
-   //    Answer: 2. byte x = (byte)100L;
+   //
 
 //    a) 1 and 2
 //    b) 2 and 3
 //    c) 3 and 4
 //    d) All statements are correct.
-      // Answer : b) 2 and 3
+      // Answer : d) All statements are correct.
 //
 //
 //
@@ -46,6 +46,7 @@ public class StringMethod {
 //    b) 24
 //    c) 32
 //    d) 33
+  //  Answer: c) 32
 //
 //
 //    What is the output of this program?
@@ -64,8 +65,9 @@ public class StringMethod {
 //    b) 301
 //    c) 301.56
 //    d) 301.56560000
+   //   Answer:a) 301.5656
 
 }
 
 
-}
+
