@@ -1,6 +1,6 @@
 package day6_StringMethod;
 
-public class StringMethod {
+//public class StringMethod {
   //   1. What is the range of short data type in Java?
 //    a) -128 to 127
 //    b) -32768 to 32767
@@ -67,7 +67,7 @@ public class StringMethod {
 //    d) 301.56560000
    //   Answer:a) 301.5656
 
-}
+
 
 
 
