@@ -45,7 +45,7 @@ class Bank {
 
 }
 
-    public class Task2 {
+    public class Task1 {
     public static void main(String[] args) {
         Bank Pnc = new Bank(1900, "PNC", 1234567, 29);
         System.out.println(Pnc.printOut());
