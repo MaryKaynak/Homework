@@ -18,6 +18,7 @@ public class TODOTRYCATCHHOMEWORK {
               int b = array[100];
           }catch (Exception ex){
               ex.printStackTrace();
+
           }//Array Index Out Of Bounds Exception
     }
 }
