@@ -1,4 +1,4 @@
-package day35.second;
+package day35_3;
 
 
 public class Person {
