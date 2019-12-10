@@ -1,4 +1,4 @@
-package Day44Homework1;
+package Day44Homework;
 
 public class homeWork3 {
     //1. what is polymorphism
